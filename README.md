@@ -14,7 +14,7 @@
 
 This module allows site owners to display and manage reviews on products or services.
 
-![image001.png](assets/image001.png)
+![image001.png](assets/image001.jpg)
 *Figure 1: Main view of the amReviews Module (Admin side)*
 
 # Table of Content
